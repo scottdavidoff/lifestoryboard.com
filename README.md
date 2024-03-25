@@ -1,1 +1,2 @@
 # lifestoryboard.com
+placeholder
